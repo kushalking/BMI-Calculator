@@ -12,9 +12,6 @@ A simple and user-friendly BMI (Body Mass Index) calculator built using HTML, CS
 - **Responsive Design:** Works seamlessly on different screen sizes (desktops, tablets, and mobile devices).
 - **Visually Appealing:** A clean and modern design.
 
-## Demo
-
-See the live demo here: [Your Live Demo Link] (If you have one)
 
 ## Screenshots
 
